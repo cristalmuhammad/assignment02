@@ -28,4 +28,4 @@
 //          alert('Thank you for your input, we are working hard to improve the game.')
 //      } else (playerEntryThree < 1 && playerEntryThree > 10); {
 //         alert('Game over, thank you for playing.')
-//      }
+    //  }

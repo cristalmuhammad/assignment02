@@ -22,4 +22,4 @@
 // randomNum = Math.round(Math.random());
 // if (coinFlip < randomNum ) {
 //     alert('The flip was heads you win')
-// }
+//  }
